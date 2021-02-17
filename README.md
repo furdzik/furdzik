@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello 😄
+
+My name is <b style="color:#40c463;">Izabela Furdzik</b>.  
+I am a <span style="display:inline-block;border-bottom:2px solid #40c463;">front-end developer</span>.
+
+⚡ <a target="_blank" style="color:#40c463;" href="https://furdzik.com/">See my portfolio</a>
+
 
 <!--
 **furdzik/furdzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
