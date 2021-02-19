@@ -1,9 +1,9 @@
 ### Hello 😄
 
-My name is <b style="color:#40c463;">Izabela Furdzik</b>.  
-I am <span style="display:inline-block;border-bottom:2px solid #40c463;">front-end developer</span>.
+My name is **Izabela Furdzik**.  
+I am front-end developer.
 
-⚡ <a target="_blank" style="color:#40c463;" href="https://furdzik.com/">See my portfolio</a>
+⚡ <a target="_blank" href="https://furdzik.com/">See my portfolio</a>
 
 
 <!--
