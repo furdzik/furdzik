@@ -1,5 +1,10 @@
 ### Hello 😄
 
+![](https://img.shields.io/badge/front--end%20skills-react-blueviolet)
+![](https://img.shields.io/badge/front--end%20skills-javascript-orange)
+![](https://img.shields.io/badge/front--end%20skills-css-yellow)
+![](https://img.shields.io/badge/front--end%20skills-html-yellow)
+
 My name is **Izabela Furdzik**.  
 I am front-end developer.
 
