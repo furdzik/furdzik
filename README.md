@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&hairsp;
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&hairsp;
 ![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)&hairsp;
-![](https://img.shields.io/badge/terminal%20commands-8f8f8f?style=for-the-badge&logo=windows%20terminal&logoColor=white) 
+![](https://img.shields.io/badge/terminal-8f8f8f?style=for-the-badge&logo=windows%20terminal&logoColor=white) 
 
 ### CURRENTLY LEARNING
 
