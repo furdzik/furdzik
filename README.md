@@ -1,30 +1,34 @@
-![](https://img.shields.io/badge/-React-282c34?logo=react&logoColor=61dafb?style=flat)
-![](https://img.shields.io/badge/-JavaScript-282c34?logo=JavaScript&logoColor=white?style=flat)
-![](https://img.shields.io/badge/-HTML-282c34?logo=html5&logoColor=white?style=flat)
-![](https://img.shields.io/badge/-CSS-282c34?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA0gAAANIBBp0MHQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAHDSURBVDiNlZK9bhNBFIW/M17/yNCgIJPCQcYuQJTQUEUUESYvQImEEIkCLR1CgipPgMTSpKGioY27gEieIEBDghQiZLsJQiKs1/Fcil2vf7Ai5UpTzJ17vnvuzAigEUZbHhY4Qzj4sbdauh0AGCoJq58FgKkLEAAI61iS/mPQOU0nuAScQzYCYHQQIHa+r5TunAZovI42TTSxpFECkHVBYFxthNHKTKXXzt5acdeLijJN5kCJA7hsEM4cOefvA7uCeQCP2hnAO3VkNl5/IngyAXB8xEy86V1MXI9douE7Si2kEfyl+Pbnqo7Hk9ei33NxvpAfakYAuS6TDijR+3IljAbDfS7fvxX1C3MOI9MADmCgwujpzJb2LxQDoCqop6tWPTh/FHg/n5X1C+0McPiQIyBOjlyFexogPUdsA59Az7Ze6GSQc5VUHx+s8SsbAckIo27S1W7UNuz9/gOtA+vDjrUNKynu3Uy3XSQbAYZJqJp46uLe43oYfUC0MGTQVNxbBMpjtUwDxr9wGVjGWAYm3ydJtP8DePxLJ/cV4y5wfVqTxmfBph+4dyPWjGi8Ol7wgZqSmjLMm7VyOWt9e1Q+nK79B03FqJubFE4nAAAAAElFTkSuQmCC&logoColor=1572b6?style=flat)
 
 
+### ABOUT ME
 
+<a href="https://furdzik.com/">
+<img src="https://img.shields.io/badge/My%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/izabela-furdzik-4971315a/">
+<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="mailto:mr.izabela.furdzik@gmail.com">
+<img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
 
-### Hello 😄
+### MY SKILLS
 
-My name is **Izabela Furdzik**.  
-I am front-end developer.
+![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)<br>
+![](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 
-⚡ <a target="_blank" href="https://furdzik.com/">See my portfolio</a>
+### GitHub Stats
+<a href="https://github.com/furdzik">
+ <img src="https://github-readme-stats.vercel.app/api?username=furdzik&show_icons=true&hide=stars&theme=graywhite&title_color=5319e7&icon_color=5319e7&hide_border=true" alt="Izabela Furdzik's GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furdzik&layout=compact&theme=graywhite&title_color=5319e7&icon_color=5319e7&hide_border=true" alt="Izabela Furdzik's Language Stats" />
+</a>
 
-
-<!--
-**furdzik/furdzik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
