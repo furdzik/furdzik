@@ -30,6 +30,6 @@
  <img src="https://github-readme-stats.vercel.app/api?username=furdzik&show_icons=true&hide=stars&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true" alt="Izabela Furdzik's GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furdzik&layout=compact&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true" alt="Izabela Furdzik's Language Stats" />
 </a>
 
-<br><br>
+<br>
 
 ![image](https://user-images.githubusercontent.com/7780054/139578710-0b22e6fa-b87d-449d-bf56-3d71422381c1.png)
