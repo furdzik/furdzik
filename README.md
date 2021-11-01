@@ -4,7 +4,7 @@
 
 <a href="https://furdzik.com/"><img src="https://img.shields.io/badge/My%20Portfolio-5319e7?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoAQMAAAC2MCouAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAZQTFRFAAAA////pdmf3QAAAAJ0Uk5TAP9bkSK1AAAAIUlEQVR4nGNgwADyD+r//8FHNjCQQ/7/gI8kz0yCJAYAAC43Uk9Z+yPuAAAAAElFTkSuQmCC&logoColor=white" alt="portfolio" /></a>&hairsp;
 <a href="https://www.linkedin.com/in/izabela-furdzik-4971315a/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&hairsp;
-<a href="https://www.linkedin.com/in/izabela-furdzik-4971315a/"><img src="https://img.shields.io/badge/StackOverflow-f48225?style=for-the-badge&logo=StackOverflow&logoColor=white" alt="linkedin" /></a>&hairsp;
+<a href="https://stackoverflow.com/users/7615658/izabela-furdzik"><img src="https://img.shields.io/badge/StackOverflow-f48225?style=for-the-badge&logo=StackOverflow&logoColor=white" alt="linkedin" /></a>&hairsp;
 <a href="mailto:mr.izabela.furdzik+github@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 
 ### MY SKILLS
