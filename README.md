@@ -28,7 +28,7 @@
 
 ### GitHub Stats
 
-| <a href="https://github.com/furdzik"><img align="center" src="https://github-readme-stats.vercel.app/api?username=furdzik&show_icons=true&hide=stars&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true" alt="Izabela Furdzik's GitHub Stats" /></a> | <a href="https://github.com/furdzik"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furdzik&layout=compact&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true" alt="Izabela Furdzik's Language Stats" /></a> |
+| <a href="https://github.com/furdzik"><img align="center" src="https://github-readme-stats.vercel.app/api?username=furdzik&show_icons=true&hide=stars&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true" alt="Izabela's GitHub Stats" /></a> | <a href="https://github.com/furdzik"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furdzik&layout=compact&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true" alt="Izabela's Language Stats" /></a> |
 | ------------- | ------------- |
 
 <!--
