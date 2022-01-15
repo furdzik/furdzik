@@ -39,4 +39,4 @@
 ### GitHub Stats
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=furdzik&show_icons=true&hide=stars&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true&count_private=true&&include_all_commits=true" alt="Izabela's GitHub Stats" />
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furdzik&layout=compact&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true&count_private=true&&include_all_commits=true" alt="Izabela's Language Stats" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furdzik&layout=compact&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true&count_private=true&&include_all_commits=true" alt="Izabela's Language Stats" />
