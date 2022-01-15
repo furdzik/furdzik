@@ -38,13 +38,6 @@
 
 ### GitHub Stats
 
-| <a href="https://github.com/furdzik"><img align="center" src="https://github-readme-stats.vercel.app/api?username=furdzik&show_icons=true&hide=stars&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true" alt="Izabela's GitHub Stats" /></a> | <a href="https://github.com/furdzik"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furdzik&layout=compact&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true" alt="Izabela's Language Stats" /></a> |
+| <a href="https://github.com/furdzik"><img align="center" src="https://github-readme-stats.vercel.app/api?username=furdzik&show_icons=true&hide=stars&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true&count_private=true&&include_all_commits=true" alt="Izabela's GitHub Stats" /></a> | <a href="https://github.com/furdzik"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furdzik&layout=compact&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true&count_private=true&&include_all_commits=true" alt="Izabela's Language Stats" /></a> |
 | ------------- | ------------- |
 
-<!--
-### Top repos
-
-| <a href="https://github.com/furdzik/IF.Japanese"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=furdzik&repo=IF.Japanese&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true" /></a> | <a href="https://github.com/furdzik/IF.Portfolio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=furdzik&repo=IF.Portfolio&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true" /></a> |
-| ------------- | ------------- |
-| <a href="https://github.com/furdzik/IF.CSSArt"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=furdzik&repo=IF.CSSArt&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true" /></a> | <a href="https://github.com/furdzik/IF.StyleGuide"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=furdzik&repo=IF.StyleGuide&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true" /></a> |
--->
