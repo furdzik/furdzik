@@ -38,6 +38,11 @@
 
 ### GitHub Stats
 
+![Termux Logo](https://user-images.githubusercontent.com/72879799/153904003-d7dee710-6552-4d23-a803-7a9a0ba67d92.png#gh-dark-mode-only)
+![Termux Logo](https://user-images.githubusercontent.com/72879799/153904095-9d78a019-8495-4035-8174-e3da8e4dd66b.png#gh-light-mode-only)
+
+
+
 <a href="https://github.com/furdzik?tab=repositories"><img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=furdzik&show_icons=true&hide=stars&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true&count_private=true&&include_all_commits=true#gh-light-mode-only" alt="Izabela's GitHub Stats" /></a>
 <a href="https://github.com/furdzik?tab=repositories"><img align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furdzik&layout=compact&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true&count_private=true&&include_all_commits=true#gh-light-mode-only" alt="Izabela's Language Stats" /></a>
 
@@ -45,7 +50,4 @@
 
 <a href="https://github.com/furdzik?tab=repositories"><img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=furdzik&show_icons=true&hide=stars&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true&count_private=true&&include_all_commits=true" alt="Izabela's GitHub Stats" /></a>
 <a href="https://github.com/furdzik?tab=repositories"><img align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furdzik&layout=compact&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true&count_private=true&&include_all_commits=true" alt="Izabela's Language Stats" /></a>
-
-
-bg_color
 
