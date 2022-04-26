@@ -2,7 +2,7 @@
 
 ### ABOUT ME
 
-<a href="https://furdzik.com/"><img src="https://img.shields.io/badge/My%20Portfolio-5319e7?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAZQTFRFAAAA////pdmf3QAAAAJ0Uk5TAP9bkSK1AAAAcUlEQVR4nO3LsQnAIBRAwQ8OltUdxREyQEAbLQKmDaj3ygcXIUk6r1RHTz9X/epGEARBEATZk+SYhiAIgiAIgiAIgiAIgiDIYuRVQRAEQRBkZ5JjGoIgCIIgCIIgCIIgCIIgCIIgCIIgCIL8TyRJJ9UA7zBX2smZJW8AAAAASUVORK5CYII=&logoColor=white" alt="portfolio" /></a>&hairsp;
+<a href="https://furdzik.com/"><img src="https://img.shields.io/badge/My%20Portfolio-5319e7?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOAgMAAABiJsVCAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAxQTFRFAAAA////////////OMA7qAAAAAR0Uk5TAP9JPu3Ru5AAAAAeSURBVHicY2AAAVHW0AQQUQAkHBhQiFA44YCdAAEA0tIFXbtdnCcAAAAASUVORK5CYII=&logoColor=white" alt="portfolio" /></a>&hairsp;
 <a href="https://www.linkedin.com/in/izabela-furdzik-4971315a/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&hairsp;
 <a href="https://stackoverflow.com/users/7615658/izabela-furdzik"><img src="https://img.shields.io/badge/StackOverflow-f48225?style=for-the-badge&logo=StackOverflow&logoColor=white" alt="linkedin" /></a>&hairsp;
 <a href="mailto:izabela.furdzik+github@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
