@@ -28,16 +28,3 @@
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&hairsp;
 ![](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)&hairsp;
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-<!-- ### SOON
-
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
- -->
----
-
-### GitHub Stats
-
-<a href="https://github.com/furdzik?tab=repositories"><img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=furdzik&show_icons=true&hide=stars&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true&count_private=true&&include_all_commits=true#gh-light-mode-only" alt="Izabela's GitHub Stats" /></a>
-<a href="https://github.com/furdzik?tab=repositories"><img align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furdzik&layout=compact&theme=graywhite&title_color=5319e7&icon_color=ff0000&hide_border=true&count_private=true&&include_all_commits=true#gh-light-mode-only" alt="Izabela's Language Stats" /></a>
-
