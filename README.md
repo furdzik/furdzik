@@ -25,5 +25,6 @@
 
 ### CURRENTLY LEARNING
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&hairsp;
-![](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)&hairsp;
-![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Express-7e7e7e?style=for-the-badge&logo=express&logoColor=white)&hairsp;
+<!-- ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&hairsp;
+![](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white) -->
